@@ -5,7 +5,7 @@ export default function Homepage() {
     <div className="homepage-container">
       <div className="bg-[url('/background.png')] flex flex-col items-center justify-center min-h-screen w-full bg-cover bg-center px-4">
   <div className="text-center max-w-xl">
-    <h1 className="homepage-title animate-appear text-[#314000] text-5xl md:text-6xl font-bold leading-tight">
+    <h1 className="homepage-title text-[#314000] text-5xl md:text-5xl font-bold leading-tight">
       Find a place to eat anywhere
     </h1>
     <p className="homepage-description text-[#314000] opacity-70 mt-4 text-lg md:text-xl">
